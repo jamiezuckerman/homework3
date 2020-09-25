@@ -47,7 +47,7 @@ p{
 
 a{
   font-size: 16px;
-  color: #C12258;
+  color: #B21F50;
   text-decoration-line: underline;
   text-decoration-style: wavy;
 
@@ -67,7 +67,7 @@ table{
 } */
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
   text-align: center;
   min-width: 125px;
