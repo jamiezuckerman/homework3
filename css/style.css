@@ -129,9 +129,9 @@ tbody tr:hover{
   background-color: rgba(126,8,32,.25);
 }
 
-td:nth-child(2), td:nth-child(2) {
+/* td:nth-child(2), td:nth-child(2) {
   border-left: solid 2px #000000;
-}
+} */
 
 
 
